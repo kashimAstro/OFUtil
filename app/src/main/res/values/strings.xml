@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">openframeworks util</string>
+    <string name="title_forum">Forum</string>
+    <string name="title_doc">Doc</string>
+    <string name="title_addons">Addons</string>
+    <string name="title_github">Github</string>
+</resources>

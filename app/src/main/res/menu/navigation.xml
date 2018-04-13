@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_forum"
+        android:icon="@drawable/of"
+        android:title="@string/title_forum" />
+
+    <item
+        android:id="@+id/navigation_documentation"
+        android:icon="@drawable/of"
+        android:title="@string/title_doc" />
+
+    <item
+        android:id="@+id/navigation_addons"
+        android:icon="@drawable/addons"
+        android:title="@string/title_addons" />
+
+    <item
+        android:id="@+id/navigation_github"
+        android:icon="@drawable/git"
+        android:title="@string/title_github" />
+
+</menu>
